@@ -1,1 +1,2 @@
-this is txt file on temp1 branch 
+this is txt file on temp1 branch
+now this file is on master branch 
